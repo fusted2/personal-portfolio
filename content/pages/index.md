@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a passionate and dedicated professional with solid knowledge in
+      financial analysis. I’m also an enthusiastic learner, full of curiosity
+      about programming, data, and automation. My favorite quote is 'Learn
+      something new every day.'
     subtitle: >-
       This is my personal portfolio. I’m publishing and sharing it to impress
       you with all the hard work I’ve done in the past few years. Once you’re
