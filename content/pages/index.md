@@ -40,6 +40,7 @@ sections:
       title:
         textAlign: left
         fontStyle: italic
+        textDecoration: underline
       subtitle:
         textAlign: left
       text:
