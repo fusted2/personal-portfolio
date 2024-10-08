@@ -39,6 +39,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        fontStyle: italic
       subtitle:
         textAlign: left
       text:
@@ -84,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
