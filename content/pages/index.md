@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a passionate financial analyst, an enthusiastic learner, full of
-      curiosity about programming and data.
+      a passionate financial analyst,an enthusiastic learner, full of curiosity
+      about programming and data.
     subtitle: >-
       This is my personal portfolio. I’m publishing and sharing it to impress
       you with all the hard work I’ve done in the past few years. Once you’re
